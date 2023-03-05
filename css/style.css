@@ -1,21 +1,21 @@
-  /* body  */
+  /* Body  */
   body {
     min-height: 100%;
     line-height: 2;
     font-family:Verdana, Geneva, Tahoma, sans-serif }
   
-    h1 {
-      font-size: 400%;
+  /* h1 {
+      font-size: 200%;
       color: black;
-       }
+       }  */
     
-    h2 {
+    /* h2 {
       font-size: 150%;
       color: black;
-    }  
+    }   */
 
 
-/* Navigation bar  */
+/* Navigation  */
 #Nav {
     border-color: rgba(34, 34, 34, 0.05);
     background-color:#4B3F72;
@@ -25,7 +25,7 @@
   }
 
 .navbar-brand {
-    color: black;
+    color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif,
     font-weight: 200;
     letter-spacing: 1px;
@@ -70,25 +70,19 @@
     color: #222222;
   } */
   
-/* Hero section ============= */
-
-.hero-banner {
+/* Hero section/Jumbotron */
+.jumbotron-fluid {
   position: relative;
   width: 100%;
-  padding-top: 150px;
+  padding-top: 60px;
   padding-bottom: 100px;
-  color:#8c7284;
+  height: 80px; 
+  background-color: #8c7284;  */
 }
-
-.hero-banner {    
-  height: 80px;
-  width: 100%;
-  margin-bottom: 15px;
-  background-color: #8c7284;
-  background-size: cover; 
-  background-position: center;
-}
-/* .hero-text {
+.container {
   text-align: center;
   position: : absolute;
  } */
+
+ /*  about me  */
+
