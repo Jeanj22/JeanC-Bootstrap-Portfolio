@@ -33,7 +33,9 @@ https://github.com/Jeanj22/JeanC-Bootstrap-Portfolio
 ## Screenshot 
 
 
-!#[Jean C Portfolio](images/Screenshot_JeanC_Bootstrap_Portfolio.png)
+ ```md
+    ![Jean C Bootstrap Portfolio](./images/Screenshot_JeanC_Bootstrap_Portfolio.png)
+    ```
 
 
 ## Credits
