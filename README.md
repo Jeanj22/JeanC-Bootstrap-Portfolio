@@ -18,16 +18,22 @@ The Jean C Portfolio contain four sections: About Me, Work, Contact Me, and Resu
 
 To navigate each section, select one of the four corresponding links at the top of the page.
 
-1. The URL of the deployed application:
+
+
+1. URL of the deployed application:
 https://jeanj22.github.io/JeanC-Bootstrap-Portfolio/
 
-2. The URL of the GitHub repository:
+
+2. URL of the GitHub repository:
 https://github.com/Jeanj22/JeanC-Bootstrap-Portfolio
+
+
+
 
 ## Screenshot 
 
 
-!#[Jean C Portfolio](./images/Screenshot%20Jean%20C%20Bootstrap-Portfolio.png)
+!#[Jean C Portfolio](images/Screenshot_JeanC_Bootstrap_Portfolio.png)
 
 
 ## Credits
