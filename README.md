@@ -4,7 +4,7 @@
 
 The motivation for this project was to create an interactive website to showcase my front-end web development skills.
 
-This website provides links to my work, resume and GitHub account; it also follows accessibility standards, and is optimized for search engines.
+The website provides links to my work, resume and GitHub account. It was made using Bootrap 4 components.
 
 
 
@@ -31,11 +31,9 @@ https://github.com/Jeanj22/JeanC-Bootstrap-Portfolio
 
 
 ## Screenshot 
-
-
- ```md
-    ![Jean C Bootstrap Portfolio](./images/Screenshot_JeanC_Bootstrap_Portfolio.png)
-    ```
+ 
+![Jean C Bootstrap Portfolio](./images/Screenshot_JeanC_Bootstrap_Portfolio.png)
+    
 
 
 ## Credits
