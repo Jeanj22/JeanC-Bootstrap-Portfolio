@@ -1,10 +1,10 @@
 # <Jean C  Bootstrap Portfolio>
 
-## A website dedicated to the portfolio of Jean C
+## Jean C Portfolio Website
 
 The motivation for this project was to create an interactive website to showcase my front-end web development skills.
 
-The website provides links to my work, resume and GitHub account. It was made using Bootrap 4 components.
+The website provides links to my work, resume and GitHub account. It was made using Bootstrap 4 components.
 
 
 
@@ -36,10 +36,11 @@ https://github.com/Jeanj22/JeanC-Bootstrap-Portfolio
     
 
 
-## Credits
 
+## Credits
 N/A
 
-## License
 
+
+## License
 N/A
