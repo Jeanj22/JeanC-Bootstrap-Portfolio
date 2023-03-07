@@ -70,8 +70,9 @@ nav a:hover {
  } 
 
  /* about me */
-.skill {
-  float: inherit;
+
+.no-bullets {
+  list-style-type: none;
 }
 
 
